@@ -1,1 +1,2 @@
 # upnormal
+Siapa pirs lopemu? 
